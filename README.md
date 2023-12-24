@@ -1,2 +1,2 @@
-# say-salanalizodev5
-sayısalanalizodev5
+# say-sayanalizodev5
+sayısayanalizodev5
